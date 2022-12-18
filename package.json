@@ -1,0 +1,22 @@
+{
+  "name": "ezlang",
+  "version": "2.0.1",
+  "description": "The Open Source Programming Language",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-ezlang/website.git"
+  },
+  "author": "GabrielLuizSF",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the-ezlang/website/issues"
+  },
+  "homepage": "https://github.com/the-ezlang/website#readme"
+}
